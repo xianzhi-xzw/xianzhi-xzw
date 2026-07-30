@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="260" viewBox="0 0 850 260" role="img" aria-labelledby="title desc">
+  <title id="title">Daily Code Activity</title>
+  <desc id="desc">Daily added and deleted source lines over the last 30 days</desc>
+  <style>
+    .title { font: 600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #1f2328; }
+    .subtitle, .axis { font: 400 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #656d76; }
+    .grid { stroke: #d8dee4; stroke-width: 1; }
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #f0f6fc; }
+      .subtitle, .axis { fill: #8b949e; }
+      .grid { stroke: #30363d; }
+    }
+  </style>
+  <text class="title" x="24" y="28">Daily Code Activity · Last 30 Days</text>
+  <text class="subtitle" x="24" y="49">+47,894 added · −26,650 deleted · merge commits excluded</text>
+  <line class="grid" x1="58" y1="82" x2="818" y2="82"/>
+  <line class="grid" x1="58" y1="126" x2="818" y2="126"/>
+  <line class="grid" x1="58" y1="170" x2="818" y2="170"/>
+  <text class="axis" x="49" y="86" text-anchor="end">6,244</text>
+  <text class="axis" x="49" y="130" text-anchor="end">3,122</text>
+  <text class="axis" x="49" y="174" text-anchor="end">0</text>
+
+  <g>
+    <title>2026-07-10: +1,961 / −2,179 lines</title>
+    <rect x="61.50" y="142.36" width="18.33" height="27.64" rx="2" fill="#2da44e"/>
+    <rect x="61.50" y="173" width="18.33" height="9.01" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-11: +1,614 / −775 lines</title>
+    <rect x="86.83" y="147.25" width="18.33" height="22.75" rx="2" fill="#2da44e"/>
+    <rect x="86.83" y="173" width="18.33" height="3.21" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-12: +1,151 / −71 lines</title>
+    <rect x="112.17" y="153.78" width="18.33" height="16.22" rx="2" fill="#2da44e"/>
+    <rect x="112.17" y="173" width="18.33" height="0.29" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-13: +2,485 / −968 lines</title>
+    <rect x="137.50" y="134.98" width="18.33" height="35.02" rx="2" fill="#2da44e"/>
+    <rect x="137.50" y="173" width="18.33" height="4.00" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-14: +6,244 / −4,008 lines</title>
+    <rect x="162.83" y="82.00" width="18.33" height="88.00" rx="2" fill="#2da44e"/>
+    <rect x="162.83" y="173" width="18.33" height="16.58" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-15: +2,511 / −276 lines</title>
+    <rect x="188.17" y="134.61" width="18.33" height="35.39" rx="2" fill="#2da44e"/>
+    <rect x="188.17" y="173" width="18.33" height="1.14" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-16: +881 / −831 lines</title>
+    <rect x="213.50" y="157.58" width="18.33" height="12.42" rx="2" fill="#2da44e"/>
+    <rect x="213.50" y="173" width="18.33" height="3.44" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-17: +296 / −18 lines</title>
+    <rect x="238.83" y="165.83" width="18.33" height="4.17" rx="2" fill="#2da44e"/>
+    <rect x="238.83" y="173" width="18.33" height="0.07" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-18: +0 / −0 lines</title>
+    <rect x="264.17" y="170.00" width="18.33" height="0.00" rx="2" fill="#2da44e"/>
+    <rect x="264.17" y="173" width="18.33" height="0.00" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-19: +0 / −0 lines</title>
+    <rect x="289.50" y="170.00" width="18.33" height="0.00" rx="2" fill="#2da44e"/>
+    <rect x="289.50" y="173" width="18.33" height="0.00" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-20: +5,138 / −953 lines</title>
+    <rect x="314.83" y="97.59" width="18.33" height="72.41" rx="2" fill="#2da44e"/>
+    <rect x="314.83" y="173" width="18.33" height="3.94" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-21: +5,329 / −322 lines</title>
+    <rect x="340.17" y="94.90" width="18.33" height="75.10" rx="2" fill="#2da44e"/>
+    <rect x="340.17" y="173" width="18.33" height="1.33" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-22: +1,069 / −8,220 lines</title>
+    <rect x="365.50" y="154.93" width="18.33" height="15.07" rx="2" fill="#2da44e"/>
+    <rect x="365.50" y="173" width="18.33" height="34.00" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-23: +384 / −437 lines</title>
+    <rect x="390.83" y="164.59" width="18.33" height="5.41" rx="2" fill="#2da44e"/>
+    <rect x="390.83" y="173" width="18.33" height="1.81" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-24: +0 / −0 lines</title>
+    <rect x="416.17" y="170.00" width="18.33" height="0.00" rx="2" fill="#2da44e"/>
+    <rect x="416.17" y="173" width="18.33" height="0.00" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-25: +0 / −0 lines</title>
+    <rect x="441.50" y="170.00" width="18.33" height="0.00" rx="2" fill="#2da44e"/>
+    <rect x="441.50" y="173" width="18.33" height="0.00" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-26: +3,920 / −216 lines</title>
+    <rect x="466.83" y="114.75" width="18.33" height="55.25" rx="2" fill="#2da44e"/>
+    <rect x="466.83" y="173" width="18.33" height="0.89" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-27: +1,666 / −573 lines</title>
+    <rect x="492.17" y="146.52" width="18.33" height="23.48" rx="2" fill="#2da44e"/>
+    <rect x="492.17" y="173" width="18.33" height="2.37" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-28: +1,686 / −596 lines</title>
+    <rect x="517.50" y="146.24" width="18.33" height="23.76" rx="2" fill="#2da44e"/>
+    <rect x="517.50" y="173" width="18.33" height="2.47" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-29: +915 / −439 lines</title>
+    <rect x="542.83" y="157.10" width="18.33" height="12.90" rx="2" fill="#2da44e"/>
+    <rect x="542.83" y="173" width="18.33" height="1.82" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-30: +4,251 / −1,512 lines</title>
+    <rect x="568.17" y="110.09" width="18.33" height="59.91" rx="2" fill="#2da44e"/>
+    <rect x="568.17" y="173" width="18.33" height="6.25" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-07-31: +1,448 / −434 lines</title>
+    <rect x="593.50" y="149.59" width="18.33" height="20.41" rx="2" fill="#2da44e"/>
+    <rect x="593.50" y="173" width="18.33" height="1.80" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-08-01: +271 / −22 lines</title>
+    <rect x="618.83" y="166.18" width="18.33" height="3.82" rx="2" fill="#2da44e"/>
+    <rect x="618.83" y="173" width="18.33" height="0.09" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-08-02: +0 / −0 lines</title>
+    <rect x="644.17" y="170.00" width="18.33" height="0.00" rx="2" fill="#2da44e"/>
+    <rect x="644.17" y="173" width="18.33" height="0.00" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-08-03: +0 / −0 lines</title>
+    <rect x="669.50" y="170.00" width="18.33" height="0.00" rx="2" fill="#2da44e"/>
+    <rect x="669.50" y="173" width="18.33" height="0.00" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-08-04: +47 / −261 lines</title>
+    <rect x="694.83" y="169.34" width="18.33" height="0.66" rx="2" fill="#2da44e"/>
+    <rect x="694.83" y="173" width="18.33" height="1.08" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-08-05: +2,814 / −110 lines</title>
+    <rect x="720.17" y="130.34" width="18.33" height="39.66" rx="2" fill="#2da44e"/>
+    <rect x="720.17" y="173" width="18.33" height="0.45" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-08-06: +1,777 / −3,427 lines</title>
+    <rect x="745.50" y="144.96" width="18.33" height="25.04" rx="2" fill="#2da44e"/>
+    <rect x="745.50" y="173" width="18.33" height="14.17" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-08-07: +36 / −2 lines</title>
+    <rect x="770.83" y="169.49" width="18.33" height="0.51" rx="2" fill="#2da44e"/>
+    <rect x="770.83" y="173" width="18.33" height="0.01" rx="2" fill="#cf222e"/>
+  </g>
+  <g>
+    <title>2026-08-08: +0 / −0 lines</title>
+    <rect x="796.17" y="170.00" width="18.33" height="0.00" rx="2" fill="#2da44e"/>
+    <rect x="796.17" y="173" width="18.33" height="0.00" rx="2" fill="#cf222e"/>
+  </g>
+  <text class="axis" x="58" y="232">Jul 10</text>
+  <text class="axis" x="438.0" y="232" text-anchor="middle">Jul 25</text>
+  <text class="axis" x="818" y="232" text-anchor="end">Aug 08</text>
+  <circle cx="655" cy="26" r="5" fill="#2da44e"/><text class="subtitle" x="665" y="30">added</text>
+  <circle cx="740" cy="26" r="5" fill="#cf222e"/><text class="subtitle" x="750" y="30">deleted</text>
+</svg>
