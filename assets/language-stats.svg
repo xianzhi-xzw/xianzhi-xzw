@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="414" viewBox="0 0 850 414" role="img" aria-labelledby="title desc">
+  <title id="title">Languages by Contributed Lines</title>
+  <desc id="desc">Programming languages aggregated from the user's commits across accessible repositories</desc>
+  <style>
+    .title { font: 600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #1f2328; }
+    .subtitle { font: 400 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #656d76; }
+    .language, .value { font: 400 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #1f2328; }
+    .track { fill: #eaeef2; }
+    @media (prefers-color-scheme: dark) {
+      .title, .language, .value { fill: #f0f6fc; }
+      .subtitle { fill: #8b949e; }
+      .track { fill: #21262d; }
+    }
+  </style>
+  <text class="title" x="24" y="28">Languages by Contributed Lines</text>
+  <text class="subtitle" x="24" y="48">523.1k added lines · last 12 months · owned + collaborative repositories</text>
+
+  <g transform="translate(24 68)">
+    <circle cx="5" cy="5" r="5" fill="#3572A5"/>
+    <text class="language" x="20" y="10">Python</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="217" height="10" rx="5" fill="#3572A5"/>
+    <text class="value" x="805" y="10" text-anchor="end">212,138 added · 40.6%</text>
+  </g>
+  <g transform="translate(24 102)">
+    <circle cx="5" cy="5" r="5" fill="#f34b7d"/>
+    <text class="language" x="20" y="10">C++</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="158" height="10" rx="5" fill="#f34b7d"/>
+    <text class="value" x="805" y="10" text-anchor="end">154,635 added · 29.6%</text>
+  </g>
+  <g transform="translate(24 136)">
+    <circle cx="5" cy="5" r="5" fill="#3178c6"/>
+    <text class="language" x="20" y="10">TypeScript</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="30" height="10" rx="5" fill="#3178c6"/>
+    <text class="value" x="805" y="10" text-anchor="end">29,112 added · 5.6%</text>
+  </g>
+  <g transform="translate(24 170)">
+    <circle cx="5" cy="5" r="5" fill="#8b949e"/>
+    <text class="language" x="20" y="10">Swift</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="28" height="10" rx="5" fill="#8b949e"/>
+    <text class="value" x="805" y="10" text-anchor="end">27,061 added · 5.2%</text>
+  </g>
+  <g transform="translate(24 204)">
+    <circle cx="5" cy="5" r="5" fill="#41b883"/>
+    <text class="language" x="20" y="10">Vue</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="23" height="10" rx="5" fill="#41b883"/>
+    <text class="value" x="805" y="10" text-anchor="end">22,219 added · 4.2%</text>
+  </g>
+  <g transform="translate(24 238)">
+    <circle cx="5" cy="5" r="5" fill="#663399"/>
+    <text class="language" x="20" y="10">CSS</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="20" height="10" rx="5" fill="#663399"/>
+    <text class="value" x="805" y="10" text-anchor="end">19,278 added · 3.7%</text>
+  </g>
+  <g transform="translate(24 272)">
+    <circle cx="5" cy="5" r="5" fill="#f1e05a"/>
+    <text class="language" x="20" y="10">JavaScript</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="17" height="10" rx="5" fill="#f1e05a"/>
+    <text class="value" x="805" y="10" text-anchor="end">16,865 added · 3.2%</text>
+  </g>
+  <g transform="translate(24 306)">
+    <circle cx="5" cy="5" r="5" fill="#3D6117"/>
+    <text class="language" x="20" y="10">TeX</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="13" height="10" rx="5" fill="#3D6117"/>
+    <text class="value" x="805" y="10" text-anchor="end">12,725 added · 2.4%</text>
+  </g>
+  <g transform="translate(24 340)">
+    <circle cx="5" cy="5" r="5" fill="#89e051"/>
+    <text class="language" x="20" y="10">Shell</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="13" height="10" rx="5" fill="#89e051"/>
+    <text class="value" x="805" y="10" text-anchor="end">12,403 added · 2.4%</text>
+  </g>
+  <g transform="translate(24 374)">
+    <circle cx="5" cy="5" r="5" fill="#8b949e"/>
+    <text class="language" x="20" y="10">BibTeX</text>
+    <rect class="track" x="160" y="0" width="535" height="10" rx="5"/>
+    <rect x="160" y="0" width="9" height="10" rx="5" fill="#8b949e"/>
+    <text class="value" x="805" y="10" text-anchor="end">8,819 added · 1.7%</text>
+  </g>
+</svg>
